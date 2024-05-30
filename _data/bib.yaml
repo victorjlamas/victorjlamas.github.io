@@ -1,0 +1,32 @@
+journals:
+
+
+proceedings:
+
+- id: Cortinas2023RetireSPLs
+  author: "Alejandro Cortiñas, Jacob Krüger, Victor Lamas, Oscar Pedreira, and Miguel R. Luaces"
+  title: "How to Retire and Replace a Software Product Line."
+  booktitle: "International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3579027.3609004"
+  publisher: "ACM"
+  year: 2023
+
+- id: DeCastroCelard2023GisPublisher
+  author: "De Castro Celard, D. and Cortiñas, A. and Lamas Sardiña, V. and Luaces, M. R."
+  title: "GIS-Publisher: From a Geographic Data Set to a Deployed Product with One Command"
+  booktitle: "Proceedings of the 27th ACM International Systems and Software Product Line Conference (SPLC)"
+  address: "Tokyo"
+  year: 2023
+  pages: "20-24"
+
+editorials:
+
+
+
+books:
+
+
+
+others:
+
+

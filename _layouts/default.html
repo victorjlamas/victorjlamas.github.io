@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="google-site-verification" content="hRAE0d5pFPMeTjLjHmO64a5LpfbB4MCQk7-G1OE01po" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>{{ site.title }}</title>
+    
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>{{ site.title }}</h1>
+
+      <p>
+        <img src="assets/cv_img.jpg" alt="A Photo of Victor Lamas" height="200" width="200">
+      </p>  
+	
+			<p><a href="https://lbd.udc.es/ShowResearcherInformation.do?id=387" rel="me noopener noreferrer">PHD Student of Software Engineering</a>
+			</br>
+			<a href="https://www.udc.es/" rel="me noopener noreferrer">University of A Coruña, Spain</a></p>
+        
+        <div text-align="center">
+        <a href="mailto:victor.lamas@udc.es">
+		<img src="logos/mail.png" height="18px" style="margin-inline-start: 0.75em; margin-bottom: 3px" alt="Mail">
+        </a>
+	      
+        <a href="https://scholar.google.de/citations?user=YQ_abKAAAAAJ
+        &oi=ao" target="_blank" rel="me noopener noreferrer">
+		<img src="logos/gs.png" height="24px" style="margin-inline-start: 0.75em" alt="Scholar"/></a>
+		
+        <a href="https://orcid.org/0000-0001-8960-1299" target="_blank" rel="me noopener noreferrer">
+		<img src="logos/orcid.png" height="24px" style="margin-inline-start: 0.75em" alt="ORCID"/></a>
+		
+        </div>
+	      
+      </header>
+      <section>
+      
+	<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden">
+	   {% for item in site.data.navigation.docs %}
+	      <li style="display: inline; text-align: center; padding: 14px 16px; text-decoration: none"><a href="{{ item.url }}">{{ item.title }}</a></li>
+	   {% endfor %}
+	</ul>
+	      
+	      <br>
+	      
+	      <hr>
+	      
+	      <br>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
