@@ -1,18 +1,11 @@
-journals:
+# journals:
 
-- id: Cortinas2023RetireSPLs
-  author: "Alejandro Cortiñas, Jacob Krüger, Victor Lamas, Oscar Pedreira, and Miguel R. Luaces"
-  title: "How to Retire and Replace a Software Product Line."
-  booktitle: "International Systems and Software Product Line Conference (SPLC)"
-  doi: "10.1145/3579027.3609004"
-  publisher: "ACM"
-  year: 2023
 
 proceedings:
 
 - id: Cortinas2023RetireSPLs
   author: "Alejandro Cortiñas, Jacob Krüger, Victor Lamas, Oscar Pedreira, and Miguel R. Luaces"
-  title: "How to Retire and Replace a Software Product Line."
+  title: "How to Retire and Replace a Software Product Line"
   booktitle: "International Systems and Software Product Line Conference (SPLC)"
   doi: "10.1145/3579027.3609004"
   publisher: "ACM"
