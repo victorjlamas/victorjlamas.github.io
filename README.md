@@ -1,10 +1,9 @@
-I am a software-engineering researcher at Database Reaearch Laboratory, University of a Coruña (Spain), specializing on the development and evolution of variant-rich software systems specialized in Geographic information Systems.
+As a software-engineering researcher at the University of a Coruña (Spain) Database Research Laboratory, my area of expertise is the creation and advancement of variant-rich software systems with a focus on geographic information systems.
 
 
-Checkout my research and publications sites or ask me if you want to learn more about these topics. If you are interested in collaborating or are looking for thesis projects in this area, please drop me a mail. a
+
+To find out more about these subjects, visit the websites for my publications and research, or get in touch with me. Please send me an email if you would like to work together or if you are looking for thesis projects in this field.
 
 ---
 
 ### Short CV
-
-During my research, I have worked in different (types of) universities and multiple countries, collaborating with various researchers and students.
