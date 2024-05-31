@@ -1,3 +1,3 @@
 ### Research
 
-I am a software-engineering researcher specializing on the development and evolution of variant-rich software systems, specialized in Geographic Information Systems
+As a researcher in software engineering, I focus on the creation and advancement of variant-rich software systems, with a particular focus on Geographic Information Systems.
