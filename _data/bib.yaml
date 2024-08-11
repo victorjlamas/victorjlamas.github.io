@@ -3,6 +3,20 @@
 
 proceedings:
 
+- id: SensorPublisher2024SPLC
+  author: "Cortiñas, Alejandro and Lamas, Victor and R. Luaces, Miguel"
+  title: "SensorPublisher: Applying Software Product Lines to the development of IoT dashboards"
+  year: 2024
+  isbn: "9798400705939"
+  publisher: "Association for Computing Machinery"
+  address: "New York, NY, USA"
+  url: "https://doi.org/10.1145/3646548.3672582"
+  doi: "10.1145/3646548.3672582"
+  booktitle: "Proceedings of the 28th ACM International Systems and Software Product Line Conference - Volume A"
+  pages: "153–163"
+  location: "Dommeldange, Luxembourg"
+  series: "SPLC '24"
+
 - id: Cortinas2023RetireSPLs
   author: "Alejandro Cortiñas, Jacob Krüger, Victor Lamas, Oscar Pedreira, and Miguel R. Luaces"
   title: "How to Retire and Replace a Software Product Line"
