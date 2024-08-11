@@ -3,8 +3,19 @@
 
 proceedings:
 
+- id: LLMXpertMODELS2024
+  author: "Daniel Garcia-Gonzalez, Victor Lamas and Miguel R. Luaces"
+  title: "DSL-Xpert: LLM-driven Generic DSL Code Generation"
+  year: 2024
+  publisher: "Association for Computing Machinery"
+  address: "New York, NY, USA"
+  url: "https://doi.org/10.1145/3652620.3687782"
+  doi: "10.1145/3652620.3687782"
+  booktitle: "International Conference on Model-Driven Engineering Languages and Systems"
+  location: "Linz, Austria"
+
 - id: SensorPublisher2024SPLC
-  author: "Cortiñas, Alejandro and Lamas, Victor and R. Luaces, Miguel"
+  author: "Alejandro Cortiñas, Victor Lamas and Miguel R. Luaces"
   title: "SensorPublisher: Applying Software Product Lines to the development of IoT dashboards"
   year: 2024
   isbn: "9798400705939"
