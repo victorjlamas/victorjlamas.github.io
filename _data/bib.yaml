@@ -1,13 +1,13 @@
 journals:
 
--id: GISPublisherSoftwareX2024
- author: "Victor Lamas, David de Castro, Alejandro Cortiñas and Miguel R. Luaces"
- title: "GIS-Publisher: Simplifying web-based GIS application development for enhanced data dissemination"
- year: 2024
- publisher: "SoftwareX"
- editorial: "Elsevier"
- url: "https://www.softxjournal.com/article/S2352-7110(24)00312-1/fulltext"
- doi: "10.1016/j.softx.2024.101942"
+- id: GISPublisherSoftwareX2024
+  author: "Victor Lamas, David de Castro, Alejandro Cortiñas and Miguel R. Luaces"
+  title: "GIS-Publisher: Simplifying web-based GIS application development for enhanced data dissemination"
+  year: 2024
+  publisher: "SoftwareX"
+  editorial: "Elsevier"
+  url: "https://www.softxjournal.com/article/S2352-7110(24)00312-1/fulltext"
+  doi: "10.1016/j.softx.2024.101942"
 
 
 proceedings:
