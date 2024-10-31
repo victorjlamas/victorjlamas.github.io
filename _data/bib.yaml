@@ -49,6 +49,8 @@ proceedings:
   author: "De Castro Celard, D. and Cortiñas, A. and Lamas Sardiña, V. and Luaces, M. R."
   title: "GIS-Publisher: From a Geographic Data Set to a Deployed Product with One Command"
   booktitle: "Proceedings of the 27th ACM International Systems and Software Product Line Conference (SPLC)"
+  doi: "10.1145/3579028.3609009"
+  publisher: "ACM"
   address: "Tokyo"
   year: 2023
   pages: "20-24"
