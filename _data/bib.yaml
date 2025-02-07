@@ -12,6 +12,17 @@ journals:
 
 proceedings:
 
+- id: UVLJsVAMOS2025
+  author: "Victor Lamas, Maria-Isabel Limaylla-Lunarejo, Miguel R. Luaces, David Romero-Organvidez, José A. Galindo, and David Benavides"
+  title: "UVL.js: Experiences on using UVL in the JavaScript Ecosystem"
+  year: 2025
+  publisher: "Association for Computing Machinery"
+  address: "New York, NY, USA"
+  url: "https://doi.org/10.1145/3715340.3715437"
+  doi: "10.1145/3715340.3715437"
+  booktitle: "International Working Conference on Variability Modelling of Software-Intensive Systems"
+  location: "Rennes, France"
+
 - id: LLMXpertMODELS2024
   author: "Daniel Garcia-Gonzalez, Victor Lamas and Miguel R. Luaces"
   title: "DSL-Xpert: LLM-driven Generic DSL Code Generation"
