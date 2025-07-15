@@ -1,9 +1,9 @@
-As a software-engineering researcher at the University of a Coruña (Spain) Database Research Laboratory, my area of expertise is the creation and advancement of variant-rich software systems with a focus on geographic information systems.
+I am a software engineering researcher at the Database Laboratory of the University of A Coruña, with experience focused on developing highly variable software systems, particularly in the fields of Geographic Information Systems (GIS), the Internet of Things (IoT), and model-driven engineering.
 
+My research has focused on designing and building software tools that enhance efficiency in the development of complex products through approaches such as software product lines, urban energy models, GIS deployment automation, and low-code solutions for data visualisation. I have actively participated in over ten R&D projects funded through competitive public calls and multiple transfer contracts with companies in the technology and education sectors, where I have contributed to the development of applied solutions with a focus on both social and technical impact.
 
+I have presented my work at high-impact international conferences (SPLC, MODELS) and published articles in JCR-indexed journals such as SoftwareX, Sustainable Cities and Society, and Computers & Geosciences. These publications present both methodological contributions and practical solutions in the context of scientific software and adaptive software engineering.
 
-To find out more about these subjects, visit the websites for my publications and research, or get in touch with me. Please send me an email if you would like to work together or if you are looking for thesis projects in this field.
+In addition to my publications, I regularly contribute to the implementation and maintenance of open-source software used in various academic and industrial settings. My background combines advanced technical skills with practical experience in multidisciplinary collaborative environments, and a strong commitment to software reuse, sustainability, and open science.
 
----
-
-### Short CV
+To learn more about these subjects, please visit the publications section or contact me directly by email if you are interested in collaborating or seeking thesis projects in this field.
