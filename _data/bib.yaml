@@ -9,6 +9,24 @@ journals:
   url: "https://www.softxjournal.com/article/S2352-7110(24)00312-1/fulltext"
   doi: "10.1016/j.softx.2024.101942"
 
+- id: SensorPublisherComputersGeosciences2025
+  author: "Victor Lamas, Alejandro Cortiñas and Miguel R. Luaces"
+  title: "Low-code framework for IoT data warehousing and visualization"
+  year: 2025
+  publisher: "Computers and Geosciences"
+  editorial: "Elsevier"
+  url: "https://doi.org/10.1016/j.cageo.2025.105998"
+  doi: "10.1016/j.cageo.2025.105998"
+
+- id: LitheumSustainableCitiesSociety2025
+  author: "Jorge Rodríguez-Álvarez, Miguel R. Luaces, Varela Rodeiro, T. ,Natalia Alvaredo-López and Victor Lamas"
+  title: "LITHEUM. A Web-based Lighting and Thermal Urban Model for City Energy Assessment"
+  year: 2025
+  publisher: "Sustainable Cities and Society"
+  editorial: "Elsevier"
+  url: "https://doi.org/10.1016/j.scs.2025.106603"
+  doi: "10.1016/j.scs.2025.106603"
+
 
 proceedings:
 
