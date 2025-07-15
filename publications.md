@@ -3,7 +3,7 @@
 This is a list of all my publications in chronological and alphabetical order. For a more thematic ordering and some context, see the research site.
 
 {% assign pubCounter = 1 %}
-<details>
+<details open>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Dissertation</b></summary>
 
 <ol start="{{ pubCounter }}">
@@ -13,7 +13,7 @@ This is a list of all my publications in chronological and alphabetical order. F
 </details>
 
 
-<details>
+<details open>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Journal Articles</b></summary>
 
 {% assign prev_year = "" %}
@@ -35,7 +35,7 @@ This is a list of all my publications in chronological and alphabetical order. F
 </details>
 
 
-<details>
+<details open>
 <summary style="cursor:pointer;"><b style="cursor:pointer;">Conference & Workshop Papers</b></summary>
 
 {% assign prev_year = "" %}
